@@ -14,11 +14,13 @@
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-[![Oleksandr Pomalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=krasmong&show_icons=true&theme=gotham  )](https://github.com/krasmong/github-readme-stats)
+[![Oleksandr Pomalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=krasmong&show_icons=true&theme=graywhite)](https://github.com/krasmong/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krasmong&layout=compact)](https://github.com/krasmong/github-readme-stats)
 
-
+ [![Krasmong telegram](https://img.shields.io/badge/Telegram-%40krasmong-blue?style=plastic&logo=telegram&link=https://t.me/krasmong)](https://t.me/krasmong)
+ [![o.pomalin@gmail.com e-mail](https://img.shields.io/badge/Gmail-o.pomalin@gmail.com-red?style=plastic&logo=gmail&link=mailto:o.pomalin@gmail.com)](mailto:o.pomalin@gmail.com)
+[![Oleksandr Pomalin Linkedin](https://img.shields.io/badge/Linkedin-Oleksandr_Pomalin-b97a90208/?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oleksandr-pomalin-b97a90208/)](https://www.linkedin.com/in/oleksandr-pomalin-b97a90208/)
 
 
 
