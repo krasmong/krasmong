@@ -1,14 +1,6 @@
-<!-- <h1>This «thing» is under construction... 👨‍🎨</h1> -->
-
 ### Hi there👋, my name is Oleksandr Pimalin 
 
 <p align='left'>I'm Front-end Developer</p
-<!--
-- 🔭 I’m currently working on **a lot of different stuff**
-- 🌱 I’m currently learning **everything I can get my hands on**
-- 🤔 I’m looking for help with **finding more time in a single day**
-- 📫 How to reach me: **nilamopr@gmail.com**
--->
   
 ### My stack and tools:
 
@@ -24,26 +16,11 @@
 
 [![Oleksandr Pomalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=krasmong&show_icons=true&theme=gotham  )](https://github.com/krasmong/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krasmong&layout=compact)](https://github.com/krasmong/github-readme-stats)
 
 
 
 
 
-<!--
-**krasmong/krasmong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
-### Hi there 👋
-### 🔭 I’m currently working on ...
-### 🌱 I’m currently learning ...
-### 👯 I’m looking to collaborate on ...
-### 🤔 I’m looking for help with ...
-### 💬 Ask me about ...
-
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
