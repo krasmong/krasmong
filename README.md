@@ -20,7 +20,7 @@
 
  [![Krasmong telegram](https://img.shields.io/badge/Telegram-%40krasmong-blue?style=plastic&logo=telegram&link=https://t.me/krasmong)](https://t.me/krasmong)
  [![o.pomalin@gmail.com e-mail](https://img.shields.io/badge/Gmail-o.pomalin@gmail.com-red?style=plastic&logo=gmail&link=mailto:o.pomalin@gmail.com)](mailto:o.pomalin@gmail.com)
-[![Oleksandr Pomalin Linkedin](https://img.shields.io/badge/Linkedin-Oleksandr_Pomalin-b97a90208/?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oleksandr-pomalin-b97a90208/)](https://www.linkedin.com/in/oleksandr-pomalin-b97a90208/)
+[![Oleksandr Pomalin Linkedin](https://img.shields.io/badge/Linkedin-Oleksandr_Pomalin/?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oleksandr-pomalin-b97a90208/)](https://www.linkedin.com/in/oleksandr-pomalin/)
 
 
 
