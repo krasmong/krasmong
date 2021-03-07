@@ -18,9 +18,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krasmong&layout=compact)](https://github.com/krasmong/github-readme-stats)
 
- [![Krasmong telegram](https://img.shields.io/badge/Telegram-%40krasmong-blue?style=plastic&logo=telegram&link=https://t.me/krasmong)](https://t.me/krasmong)
- [![o.pomalin@gmail.com e-mail](https://img.shields.io/badge/Gmail-o.pomalin@gmail.com-red?style=plastic&logo=gmail&link=mailto:o.pomalin@gmail.com)](mailto:o.pomalin@gmail.com)
-[![Oleksandr Pomalin Linkedin](https://img.shields.io/badge/Linkedin-Oleksandr_Pomalin/?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oleksandr-pomalin/)](https://www.linkedin.com/in/oleksandr-pomalin/)
+[![Krasmong telegram](https://img.shields.io/badge/Telegram-%40krasmong-blue?style=plastic&logo=telegram&link=https://t.me/krasmong)](https://t.me/krasmong)
+[![o.pomalin@gmail.com e-mail](https://img.shields.io/badge/Gmail-o.pomalin@gmail.com-red?style=plastic&logo=gmail&link=mailto:o.pomalin@gmail.com)](mailto:o.pomalin@gmail.com) 
+[![Oleksandr_Pomalin Linkedin](https://img.shields.io/badge/Linkedin-Oleksandr_Pomalin-green?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/oleksandr-pomalin/)](https://www.linkedin.com/in/oleksandr-pomalin/)
+ 
+ 
 
 
 
