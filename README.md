@@ -1,6 +1,4 @@
-### Hi there👋, my name is Oleksandr Pimalin 
-
-<p align='left'>I'm Front-end Developer</p
+## Hi there👋, my name is Oleksandr Pimalin 
   
 ### My stack and tools:
 
