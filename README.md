@@ -1,4 +1,4 @@
-## Hi there👋, my name is Oleksandr Pimalin 
+## Hi there👋, my name is Oleksandr Pomalin 
   
 ### My stack and tools:
 
